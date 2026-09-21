@@ -74,6 +74,14 @@ X-RAY SHIFT is an independently developed game project focused on rapid decision
 
 The project is undergoing release preparation and playtesting.
 
+## Official Gameplay Trailer
+
+Watch X-RAY SHIFT in action: baggage inspection, changing screening protocols, RE-SCAN, time pressure, and Operator Certification.
+
+[▶ Watch the Official Gameplay Trailer on YouTube](https://www.youtube.com/watch?v=K_y6roZqssQ)
+
+---
+
 ## Screenshots
 
 ### Shift 01 — Standard Screening
