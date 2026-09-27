@@ -60,13 +60,15 @@ Correct decisions improve your score. Mistakes put your run at risk.
 
 Complete Shift 10 to earn Operator Certification and unlock Overtime.
 
-## Windows Playtest
 
-X-RAY SHIFT is currently being prepared for public release.
+## Windows Download
 
-A Windows release candidate has been built and tested. The current playtest is restricted, so the download is not yet publicly available.
+**Official itch.io page:** [X-RAY SHIFT](https://kilicaslanyusuf.itch.io/x-ray-shift)
 
-The public download link will be added here when the game is released.
+The Windows release candidate has been built and tested.
+
+The itch.io page is currently restricted to authorized playtesters. The public Windows download will be available through the same link when the game is released.
+
 
 ## Development
 
