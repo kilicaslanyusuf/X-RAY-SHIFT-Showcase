@@ -65,16 +65,16 @@ Complete Shift 10 to earn Operator Certification and unlock Overtime.
 
 **Official itch.io page:** [X-RAY SHIFT](https://kilicaslanyusuf.itch.io/x-ray-shift)
 
-The Windows release candidate has been built and tested.
+The Windows build is publicly available on itch.io.
 
-The itch.io page is currently restricted to authorized playtesters. The public Windows download will be available through the same link when the game is released.
+Download the latest Windows version from the official itch.io page above.
 
 
 ## Development
 
 X-RAY SHIFT is an independently developed game project focused on rapid decision-making, readable visual information, escalating difficulty, and replayability.
 
-The project is undergoing release preparation and playtesting.
+The project has been publicly released on itch.io and will continue to receive fixes and improvements based on player feedback.
 
 ## Official Gameplay Trailer
 
